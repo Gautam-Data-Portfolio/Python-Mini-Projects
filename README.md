@@ -62,7 +62,7 @@
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/snake-water-gun.git
+https://github.com/Gautam-Data-Portfolio/Python-Mini-Projects
 
 2️⃣ Navigate to the project folder
 
